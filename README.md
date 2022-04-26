@@ -1,3 +1,5 @@
+- 8 Queens Puzzle
+
 Write a program that uses the genetic algorithm to solve 8 queens problem.
 
 Implement:
