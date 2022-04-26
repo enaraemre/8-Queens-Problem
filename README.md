@@ -1,4 +1,4 @@
-- 8 Queens Puzzle
+- 8 Queens Puzzle in C#
 
 Write a program that uses the genetic algorithm to solve 8 queens problem.
 
